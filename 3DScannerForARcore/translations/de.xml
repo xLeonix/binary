@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- File Manager !-->
+    <string name="app_name">3D Scanner</string>
+    <string name="no_data">Keine 3D-Modelle</string>
+    <string name="name_exists">Ein Modell mit dem eingegebenen Namen existiert bereits.</string>
+    <string name="invalid_name">Ungültiger Dateiname!</string>
+    <string name="delete">Löschen des Modells</string>
+    <string name="capture">Scannen</string>
+    <string name="scene_res">Wählen Sie die Aufnahmeauflösung</string>
+    <string name="settings">Einstellungen</string>
+    <string name="move">Bewegen Sie das Gerät, um mit dem Scannen zu beginnen.</string>
+    <string name="info">Diese App ist nur ein Experiment. Mit der Nutzung dieser App erklären Sie sich mit https://github.com/lvonasek/tango/wiki/Privacy-policy-for-3D-scanner-for-ARCore einverstanden\n\nFür aktuelle Informationen über Mobile 3D-Scantechnologien folgen Sie bitte https://twitter.com/ScanningMobile\n\nWenn Sie diese Technologie in Ihrer AR-App verwenden möchten, dann klicken Sie auf https://assetstore.unity.com/packages/tools/integration/3d-reconstruction-for-arcore-android-only-136919</string>
+
+    <!-- Editor !-->
+    <string name="editor_main_colors">Farben</string>
+    <string name="editor_main_select">Auswahl</string>
+    <string name="editor_main_transform">Verwandeln</string>
+    <string name="editor_main_view">Ansicht</string>
+    <string name="editor_colors_contrast">Kontrast</string>
+    <string name="editor_colors_gamma">Gamma</string>
+    <string name="editor_colors_saturation">Sättigung</string>
+    <string name="editor_colors_reset">Zurück</string>
+    <string name="editor_colors_tone">Farbton</string>
+    <string name="editor_select_all">Alle/Keine</string>
+    <string name="editor_select_object">Objekt</string>
+    <string name="editor_select_object_desc">Tippen Sie auf das Objekt, das Sie auswählen möchten.</string>
+    <string name="editor_select_rect">Rechteck</string>
+    <string name="editor_select_rect_desc">Durch Ziehen eine rechteckige Selektion erstellen.</string>
+    <string name="editor_select_less">Weniger</string>
+    <string name="editor_select_more">Mehr</string>
+    <string name="editor_transform_clone">Kopieren</string>
+    <string name="editor_transform_delete">Löschen</string>
+    <string name="editor_transform_move">Verschieben</string>
+    <string name="editor_transform_rotate">Drehen</string>
+    <string name="editor_transform_scale">Skalieren</string>
+    <string name="editor_view_normals">Normalen</string>
+
+    <!-- Sketchfab uploader !-->
+    <string name="compressing">Dateien komprimieren…</string>
+    <string name="continue_question">Wollen Sie fortfahren?</string>
+    <string name="description">Beschreibung:</string>
+    <string name="model_name">Modellname:</string>
+    <string name="sketchfab_dialog_title">Hochladen auf Sketchfab</string>
+    <string name="sketchfab_pro">Beachten Sie, dass bei einer Größe von mehr als 50 MB ein Sketchfab PRO-Konto erforderlich ist, andernfalls kann der Upload fehlschlagen.</string>
+    <string name="sketchfab_upload_ready">Das Modell ist komprimiert und bereit zum Hochladen!</string>
+    <string name="tags">Tags:</string>
+    <string name="upload">Upload</string>
+    <string name="upload_size_is">Die Gesamtgröße für den Upload beträgt</string>
+
+    <!-- Service !-->
+    <string name="action_continue">Scannen fortsetzen</string>
+    <string name="action_show_result">Ergebnis anzeigen</string>
+    <string name="action_finish">Beenden</string>
+    <string name="action_cancel">Vorgang abbrechen</string>
+    <string name="enter_filename">Geben Sie den Dateinamen ein</string>
+    <string name="failed">Verarbeitung fehlgeschlagen, gescannte Daten wurden gelöscht!</string>
+    <string name="finished">Vorgang beendet</string>
+    <string name="paused">Scannen pausiert</string>
+    <string name="postprocessing">Nachbearbeitung des Modells …</string>
+    <string name="saving">Speichern des Modells …</string>
+    <string name="sketchfab_uploading">Hochladen des Modells zu Sketchfab …</string>
+    <string name="turn_off">Sie können die Anwendung beenden, ohne Daten zu verlieren.</string>
+    <string name="warning">Warnung</string>
+    <string name="working">Die App funktioniert, bitte schalten Sie das Gerät nicht aus und starten Sie keine andere AR-Applikation.</string>
+
+    <!-- Event !-->
+    <string name="event_bright">Zu hell zum Scannen</string>
+    <string name="event_dark">Zu dunkel zum Scannen</string>
+    <string name="event_features">Motion Tracking erkannte Probleme</string>
+    <string name="event_convert">Konvertierung von Daten</string>
+    <string name="event_image">Bearbeitung von Fotos</string>
+    <string name="event_merge">Ergebnisse zusammenführen</string>
+    <string name="event_poisson">Poisson Rekonstruktion</string>
+    <string name="event_process">Verarbeitungsmodell</string>
+    <string name="event_simplify">Vereinfachung der Geometrie</string>
+    <string name="event_unwrap">Auspacken von Texturen</string>
+
+    <!-- Scan dialog !-->
+    <string name="advanced">Fortgeschritten</string>
+    <string name="depth_sensor">Tiefensensor verwenden</string>
+    <string name="hole_filling">Echtzeit-Lückenschließung</string>
+    <string name="scan_2cm">2 cm - kleines Zimmer</string>
+    <string name="scan_4cm">4 cm - drinnen</string>
+    <string name="scan_8cm">8 cm - draußen</string>
+    <string name="scan_16cm">XXX cm - entfernt</string>
+</resources>
