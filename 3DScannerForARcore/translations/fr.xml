@@ -10,7 +10,7 @@
     <string name="scene_res">Choisissez la résolution de captation</string>
     <string name="settings">Configuration</string>
     <string name="move">Bougez le capteur pour commencer à scanner</string>
-    <string name="info">Cette app est seulement une expérience. Pour l\'utiliser, vous devez accepter les conditions d\'utilisation: https://github.com/lvonasek/tango/wiki/Privacy-policy-for-3D-scanner-for-ARCore\n\nPour plus d\'informations sur les technologies de scanns 3D, suivez https://twitter.com/ScanningMobile\n\nSi vous avez des questions, contactez-moi (en anglais) tridosm@gmail.com\n\nSi vous souhaitez utiliser cette technologie dans votre application AR, cliquez sur https://assetstore.unity.com/packages/tools/integration/3d-reconstruction-for-arcore-android-only-136919</string>
+    <string name="info">Pour l\'utiliser, vous devez accepter les conditions d\'utilisation: https://github.com/lvonasek/tango/wiki/Privacy-policy-for-3D-scanner-for-ARCore\n\nToutes les données seront sauvegardées dans le dossier \"Models\" de la mémoire interne.</string>
 
     <!-- Editor !-->
     <string name="editor_main_colors">Couleurs</string>
@@ -83,5 +83,5 @@
     <string name="scan_2cm">2 cm - Petites pièces</string>
     <string name="scan_4cm">4 cm - Intérieurs</string>
     <string name="scan_8cm">8 cm - Extérieur</string>
-    <string name="scan_16cm">XXX cm - Éloignés</string>
+    <string name="scan_face">Scannage du visage</string>
 </resources>
