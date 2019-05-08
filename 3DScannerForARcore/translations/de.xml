@@ -10,7 +10,7 @@
     <string name="scene_res">Wählen Sie die Aufnahmeauflösung</string>
     <string name="settings">Einstellungen</string>
     <string name="move">Bewegen Sie das Gerät, um mit dem Scannen zu beginnen.</string>
-    <string name="info">Mit der Nutzung dieser App erklären Sie sich mit https://github.com/lvonasek/tango/wiki/Privacy-policy-for-3D-scanner-for-ARCore einverstanden\n\nAlle Daten werden im Ordner \"Models\" im internen Speicher gespeichert</string>
+    <string name="info">Mit der Nutzung dieser App erklären Sie sich mit der #BEGIN#Datenschutzerklärung#END# einverstanden.\n\nAlle Daten werden im Ordner \"Models\" im internen Speicher gespeichert.</string>
 
     <!-- Editor !-->
     <string name="editor_main_colors">Farben</string>

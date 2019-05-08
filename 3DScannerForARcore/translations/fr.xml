@@ -10,7 +10,7 @@
     <string name="scene_res">Choisissez la résolution de captation</string>
     <string name="settings">Configuration</string>
     <string name="move">Bougez le capteur pour commencer à scanner</string>
-    <string name="info">Pour l\'utiliser, vous devez accepter les conditions d\'utilisation: https://github.com/lvonasek/tango/wiki/Privacy-policy-for-3D-scanner-for-ARCore\n\nToutes les données seront sauvegardées dans le dossier \"Models\" de la mémoire interne.</string>
+    <string name="info">En utilisant cette application, vous acceptez #BEGIN#la politique de confidentialité#END#.\n\nToutes les données seront sauvegardées dans le dossier \"Models\" de la mémoire interne.</string>
 
     <!-- Editor !-->
     <string name="editor_main_colors">Couleurs</string>
