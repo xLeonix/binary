@@ -84,4 +84,5 @@
     <string name="scan_4cm">4 cm - drinnen</string>
     <string name="scan_8cm">8 cm - draußen</string>
     <string name="scan_face">Gesichtsscan</string>
+    <string name="tof_warning">Diese Funktionalität ist experimentell, sie verwendet einen eingeschränkten Zugriff auf den ToF-Sensor und funktioniert nur auf wenigen Geräten (vor allem, weil es ein fehlendes Software-Update gibt, das diese Funktionalität ermöglicht).\n\n\nFolgende ToF-Auflösungen wurden bestätigt, dass sie funktionieren:\n\n240x180 - Huawei P30 Pro\n20x15 - Honor View 20</string>
 </resources>

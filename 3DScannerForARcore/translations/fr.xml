@@ -84,4 +84,5 @@
     <string name="scan_4cm">4 cm - Intérieurs</string>
     <string name="scan_8cm">8 cm - Extérieur</string>
     <string name="scan_face">Scannage du visage</string>
+    <string name="tof_warning">Cette fonction est expérimentale, elle utilise un accès limité au capteur ToF et ne fonctionne que sur quelques appareils (principalement parce qu\'il manque une mise à jour logicielle permettant cette fonctionnalité). Les résolutions ToF suivantes ont été confirmées fonctionnelles:\n\n\n\n240x180 - Huawei P30 Pro\n20x15 - Honor View 20</string>
 </resources>
