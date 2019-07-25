@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- File Manager !-->
+    <string name="app_name">Escáner 3D</string>
+    <string name="no_data">No hay modelos 3D</string>
+    <string name="name_exists">Ya existe un modelo con el nombre introducido.</string>
+    <string name="invalid_name">Nombre de archivo inválido!</string>
+    <string name="delete">Borrar el modelo</string>
+    <string name="capture">Escudriñar</string>
+    <string name="scene_res">Elija la resolución de captura</string>
+    <string name="settings">Ajustes</string>
+    <string name="move">Mueva el dispositivo para iniciar el escaneo.</string>
+    <string name="continue_question">¿Quieres continuar?</string>
+    <string name="info">Al usar esta aplicación estás de acuerdo con #BEGIN#la política de privacidad#END#.\n\nTodos los datos van a ser guardados en la carpeta "Models" en el almacenamiento interno.</string>
+    <string name="share_via">Compartir a través de</string>
+
+    <!-- Editor !-->
+    <string name="editor_main_colors">Colores</string>
+    <string name="editor_main_select">Seleccione</string>
+    <string name="editor_main_transform">Transformador</string>
+    <string name="editor_main_view">Opinión</string>
+    <string name="editor_colors_contrast">Contrast</string>
+    <string name="editor_colors_gamma">Gamma</string>
+    <string name="editor_colors_saturation">Saturación</string>
+    <string name="editor_colors_tone">Arcillas</string>
+    <string name="editor_colors_reset">Reiniciar</string>
+    <string name="editor_select_all">Todos/Ninguno</string>
+    <string name="editor_select_object">Objecto</string>
+    <string name="editor_select_object_desc">Pulse sobre el objeto que quiere seleccionar.</string>
+    <string name="editor_select_rect">Rectangle</string>
+    <string name="editor_select_rect_desc">Cree un rectángulo de selección arrastrando un rectángulo en la pantalla.</string>
+    <string name="editor_select_less">Menos</string>
+    <string name="editor_select_more">Más</string>
+    <string name="editor_transform_clone">Copiar</string>
+    <string name="editor_transform_delete">Borrar</string>
+    <string name="editor_transform_move">Trasladar</string>
+    <string name="editor_transform_rotate">Rota</string>
+    <string name="editor_transform_scale">Escala</string>
+    <string name="editor_view_normals">Normal</string>
+
+    <!-- Service !-->
+    <string name="action_continue">Continuar escaneando</string>
+    <string name="action_show_result">Mostrar resultado</string>
+    <string name="action_finish">Culminar</string>
+    <string name="action_cancel">Cancelar operación</string>
+    <string name="enter_filename">Introduzca el nombre de fichero</string>
+    <string name="failed">El procesamiento falló, los datos escaneados se perdieron!</string>
+    <string name="finished">Operación finalizada</string>
+    <string name="paused">Escaneo pausado</string>
+    <string name="postprocessing">Tratamiento posterior del modelo…</string>
+    <string name="saving">Guardar el modelo…</string>
+    <string name="turn_off">Puedes salir de la aplicación sin perder datos.</string>
+    <string name="warning">Advertencia</string>
+    <string name="working">La aplicación está funcionando, por favor no apague el dispositivo y no inicie otra aplicación AR.</string>
+
+    <!-- Event !-->
+    <string name="event_bright">Demasiado brillante para escanear</string>
+    <string name="event_dark">Demasiado oscuro para escanear</string>
+    <string name="event_features">Seguimiento de movimiento de los problemas detectados</string>
+    <string name="event_convert">Conversión de datos</string>
+    <string name="event_image">Procesamiento de fotos</string>
+    <string name="event_merge">Fusión de resultados</string>
+    <string name="event_poisson">Poisson reconstrucción</string>
+    <string name="event_process">Modelo de procesamiento</string>
+    <string name="event_simplify">Simplificación de la geometría</string>
+    <string name="event_unwrap">Desenvoltura de texturas</string>
+
+    <!-- Scan dialog !-->
+    <string name="advanced">Avanzado</string>
+    <string name="depth_sensor">Utilizar el sensor de profundidad</string>
+    <string name="hole_filling">Llenado de huecos en tiempo real</string>
+    <string name="scan_2cm">2 cm - cuarto pequeño</string>
+    <string name="scan_4cm">4 cm - interno</string>
+    <string name="scan_8cm">8 cm - outward</string>
+    <string name="scan_face">Escaneo facial</string>
+
+    <string-array name="shares">
+        <item>Diálogo con Android</item>>
+        <item>Google Poly</item>>
+        <item>Sketchfab</item>>
+    </string-array>
+</resources>

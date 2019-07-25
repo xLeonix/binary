@@ -10,7 +10,9 @@
     <string name="scene_res">Vyberte rozlišení skenování</string>
     <string name="settings">Nastavení</string>
     <string name="move">Pohybujte zařízením kolem, abyste spustili skenování.</string>
+    <string name="continue_question">Chcete pokračovat?</string>
     <string name="info">Používáním této aplikace souhlasíte s #BEGIN#podmínkami ochrany soukromí#END#.\n\nVeškerá data budou uložena ve složce \"Models\" v interním úložišti</string>
+    <string name="share_via">Sdílet pomocí</string>
 
     <!-- Editor !-->
     <string name="editor_main_colors">Barvy</string>
@@ -36,18 +38,6 @@
     <string name="editor_transform_scale">Škálovat</string>
     <string name="editor_view_normals">Normály</string>
 
-    <!-- Sketchfab uploader !-->
-    <string name="compressing">Zabaluji soubory…</string>
-    <string name="continue_question">Chcete pokračovat?</string>
-    <string name="description">Popis:</string>
-    <string name="model_name">Název modelu:</string>
-    <string name="sketchfab_dialog_title">Uploadovat do Sketchfabu</string>
-    <string name="sketchfab_pro">Modely větší než 50 MB vyžadují Sketchfab PRO konto, pokud PRO konto nemáte, upload selže.</string>
-    <string name="sketchfab_upload_ready">Model je zabalen a připraven k uploadu!</string>
-    <string name="tags">Tagy:</string>
-    <string name="upload">Upload</string>
-    <string name="upload_size_is">Celková velikost uploadu je</string>
-
     <!-- Service !-->
     <string name="action_continue">Pokračovat ve skenování</string>
     <string name="action_show_result">Zobrazit výsledek</string>
@@ -59,7 +49,6 @@
     <string name="paused">Skenování pozastaveno</string>
     <string name="postprocessing">Zpracovávám model…</string>
     <string name="saving">Ukládám model…</string>
-    <string name="sketchfab_uploading">Uploaduji model do Sketchfabu…</string>
     <string name="turn_off">Nyní můžete ukončit aplikaci bez ztráty dat.</string>
     <string name="warning">Varování</string>
     <string name="working">Aplikace pracuje, prosím nevypínejte zařízení a nespouštějte jinou AR aplikaci.</string>
@@ -84,5 +73,10 @@
     <string name="scan_4cm">4 cm - interior</string>
     <string name="scan_8cm">8 cm - exterior</string>
     <string name="scan_face">Skenování obličeje</string>
-    <string name="tof_warning">Tato funkce je experimentální, využívá omezený přístup k senzoru ToF a funguje pouze na několika zařízeních (většinou proto, že chybí aktualizace softwaru umožňující tuto funkci)\n\nNásledující ToF rozlišení byly potvrzeny, že fungují:\n\n240x180 - Huawei P30 Pro\n20x15 - Honor View 20</string>
+
+    <string-array name="shares">
+        <item>Android dialog</item>>
+        <item>Google Poly</item>>
+        <item>Sketchfab</item>>
+    </string-array>
 </resources>

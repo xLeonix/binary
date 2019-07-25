@@ -10,7 +10,9 @@
     <string name="scene_res">Wählen Sie die Aufnahmeauflösung</string>
     <string name="settings">Einstellungen</string>
     <string name="move">Bewegen Sie das Gerät, um mit dem Scannen zu beginnen.</string>
+    <string name="continue_question">Wollen Sie fortfahren?</string>
     <string name="info">Mit der Nutzung dieser App erklären Sie sich mit der #BEGIN#Datenschutzerklärung#END# einverstanden.\n\nAlle Daten werden im Ordner \"Models\" im internen Speicher gespeichert.</string>
+    <string name="share_via">Teilen über</string>
 
     <!-- Editor !-->
     <string name="editor_main_colors">Farben</string>
@@ -36,18 +38,6 @@
     <string name="editor_transform_scale">Skalieren</string>
     <string name="editor_view_normals">Normalen</string>
 
-    <!-- Sketchfab uploader !-->
-    <string name="compressing">Dateien komprimieren…</string>
-    <string name="continue_question">Wollen Sie fortfahren?</string>
-    <string name="description">Beschreibung:</string>
-    <string name="model_name">Modellname:</string>
-    <string name="sketchfab_dialog_title">Hochladen auf Sketchfab</string>
-    <string name="sketchfab_pro">Beachten Sie, dass bei einer Größe von mehr als 50 MB ein Sketchfab PRO-Konto erforderlich ist, andernfalls kann der Upload fehlschlagen.</string>
-    <string name="sketchfab_upload_ready">Das Modell ist komprimiert und bereit zum Hochladen!</string>
-    <string name="tags">Tags:</string>
-    <string name="upload">Upload</string>
-    <string name="upload_size_is">Die Gesamtgröße für den Upload beträgt</string>
-
     <!-- Service !-->
     <string name="action_continue">Scannen fortsetzen</string>
     <string name="action_show_result">Ergebnis anzeigen</string>
@@ -59,10 +49,9 @@
     <string name="paused">Scannen pausiert</string>
     <string name="postprocessing">Nachbearbeitung des Modells …</string>
     <string name="saving">Speichern des Modells …</string>
-    <string name="sketchfab_uploading">Hochladen des Modells zu Sketchfab …</string>
     <string name="turn_off">Sie können die Anwendung beenden, ohne Daten zu verlieren.</string>
     <string name="warning">Warnung</string>
-    <string name="working">Die App funktioniert, bitte schalten Sie das Gerät nicht aus und starten Sie keine andere AR-Applikation.</string>
+    <string name="working">Die App arbeitet, bitte schalten Sie das Gerät nicht aus und starten Sie keine andere AR-Applikation.</string>
 
     <!-- Event !-->
     <string name="event_bright">Zu hell zum Scannen</string>
@@ -84,5 +73,10 @@
     <string name="scan_4cm">4 cm - drinnen</string>
     <string name="scan_8cm">8 cm - draußen</string>
     <string name="scan_face">Gesichtsscan</string>
-    <string name="tof_warning">Diese Funktionalität ist experimentell, sie verwendet einen eingeschränkten Zugriff auf den ToF-Sensor und funktioniert nur auf wenigen Geräten (vor allem, weil es ein fehlendes Software-Update gibt, das diese Funktionalität ermöglicht).\n\n\nFolgende ToF-Auflösungen wurden bestätigt, dass sie funktionieren:\n\n240x180 - Huawei P30 Pro\n20x15 - Honor View 20</string>
+
+    <string-array name="shares">
+        <item>Android Dialog</item>>
+        <item>Google Poly</item>>
+        <item>Sketchfab</item>>
+    </string-array>
 </resources>
