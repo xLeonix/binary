@@ -1,81 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- File Manager !-->
-    <string name="app_name">3D сканер</string>
+    <string name="app_name">3D Сканирование</string>
     <string name="no_data">Нет 3D моделей</string>
-    <string name="name_exists">Модель с введенным именем уже существует.</string>
-    <string name="invalid_name">Неверное имя файла!</string>
-    <string name="delete">Удалить модель</string>
-    <string name="capture">Сканировать</string>
-    <string name="scene_res">Выберите разрешение съемки</string>
-    <string name="settings">Настройки</string>
-    <string name="move">Переместите устройство, чтобы начать сканирование.</string>
-    <string name="continue_question">Ты хочешь продолжить?</string>
-    <string name="info">Используя это приложение, вы соглашаетесь с #BEGIN#политикой конфиденциальности#END#.\n\nAll Данные сохраняются во внутреннем хранилище в папке \"Models\".</string>
-    <string name="share_via">Поделиться через</string>
+    <string name="name_exists">такое имя уже существует.</string>
+    <string name="invalid_name">некорректное имя файла!</string>
+    <string name="delete">удалить модель</string>
+    <string name="capture">сканировать</string>
+    <string name="scene_res">выберите качество сканирования</string>
+    <string name="settings">настройки</string>
+    <string name="move">начните двигаться для начала захвата.</string>
+    <string name="continue_question">вы хотите продолжить?</string>
+    <string name="info">прежде чем вы начнете использовать приложение #BEGIN#соглашение о конфиденциальности#END#.\n\n все файлы должны быть сохранены в \"Models\" папка в корневом диске.</string>
+    <string name="share_via">отправить через</string>
 
     <!-- Editor !-->
-    <string name="editor_main_colors">Цвета</string>
-    <string name="editor_main_select">Выберите</string>
-    <string name="editor_main_transform">Преобразование</string>
-    <string name="editor_main_view">Просмотр</string>
-    <string name="editor_colors_contrast">Контраст</string>
-    <string name="editor_colors_gamma">Гамма</string>
-    <string name="editor_colors_saturation">Насыщение</string>
-    <string name="editor_colors_tone">Тон</string>
-    <string name="editor_colors_reset">Сброс</string>
-    <string name="editor_select_all">Все/Нет</string>
-    <string name="editor_select_object">Объект</string>
-    <string name="editor_select_object_desc">Нажмите на объект, который вы хотите выбрать.</string>
-    <string name="editor_select_rect">Прямоугольник</string>
-    <string name="editor_select_rect_desc">Создайте прямоугольник выделения путем перетаскивания прямоугольника на экран.</string>
-    <string name="editor_select_less">Меньше</string>
-    <string name="editor_select_more">Больше</string>
-    <string name="editor_transform_clone">Копировать</string>
-    <string name="editor_transform_delete">Удалить</string>
-    <string name="editor_transform_move">Двигайся</string>
-    <string name="editor_transform_rotate">Поворачивать</string>
-    <string name="editor_transform_scale">Масштаб</string>
-    <string name="editor_view_normals">Нормальные</string>
+    <string name="editor_main_colors">цвета</string>
+    <string name="editor_main_select">выбрать</string>
+    <string name="editor_main_transform">преобразовать</string>
+    <string name="editor_main_view">просмотр</string>
+    <string name="editor_colors_contrast">контраст</string>
+    <string name="editor_colors_gamma">гамма</string>
+    <string name="editor_colors_saturation">насыщенность</string>
+    <string name="editor_colors_tone">тон</string>
+    <string name="editor_colors_reset">сброс</string>
+    <string name="editor_select_all">Все/Отменить</string>
+    <string name="editor_select_object">объект</string>
+    <string name="editor_select_object_desc">нажмите по объекту для выбора.</string>
+    <string name="editor_select_rect">прямоугольник</string>
+    <string name="editor_select_rect_desc">Создайте выделенный прямоугольник, перетаскивая прямоугольник на экране.</string>
+    <string name="editor_select_less">меньше</string>
+    <string name="editor_select_more">больше</string>
+    <string name="editor_transform_clone">копировать</string>
+    <string name="editor_transform_delete">удалить</string>
+    <string name="editor_transform_move">переместить</string>
+    <string name="editor_transform_rotate">повернуть</string>
+    <string name="editor_transform_scale">масштаб</string>
+    <string name="editor_view_normals">нормаль</string>
 
     <!-- Service !-->
-    <string name="action_continue">Продолжить сканирование</string>
-    <string name="action_show_result">Показать результат</string>
-    <string name="action_finish">Готово</string>
-    <string name="action_cancel">Отмена операции</string>
-    <string name="enter_filename">Введите имя файла</string>
-    <string name="failed">Обработка провалилась, отсканированные данные были потеряны!</string>
-    <string name="finished">Работа завершена</string>
-    <string name="paused">Сканирование приостановлено</string>
-    <string name="postprocessing">Постобработка модели…</string>
-    <string name="saving">Сохранение модели…</string>
-    <string name="turn_off">Вы можете выйти из приложения без потери данных.</string>
-    <string name="warning">Предупреждение</string>
-    <string name="working">Приложение работает, пожалуйста, не выключайте устройство и не запускайте другое приложение AR.</string>
+    <string name="action_continue">продолжить сканирование</string>
+    <string name="action_show_result">показать результат</string>
+    <string name="action_finish">готово</string>
+    <string name="action_cancel">отменить операцию</string>
+    <string name="enter_filename">введите имя файла</string>
+    <string name="failed">процесс прерван, сканирование утеряно!</string>
+    <string name="finished">операция завершена</string>
+    <string name="paused">сканирование приостановлено</string>
+    <string name="postprocessing">постобработка модели…</string>
+    <string name="saving">сохранить модель…</string>
+    <string name="turn_off">Вы можете выйти из предложений без потери данных.</string>
+    <string name="warning">внимание</string>
+    <string name="working">Приложение находится в работе, пожалуйста не отключайте устройства и не запускайте другое AR приложение.</string>
 
     <!-- Event !-->
-    <string name="event_bright">Слишком яркий для сканирования</string>
-    <string name="event_dark">Слишком темно для сканирования.</string>
-    <string name="event_features">Отслеживание движения обнаруженных проблем</string>
-    <string name="event_convert">Преобразование данных</string>
-    <string name="event_image">Обработка фотографии</string>
-    <string name="event_merge">Результаты слияния</string>
-    <string name="event_poisson">реконструкция Пуассона</string>
-    <string name="event_process">Модель обработки</string>
-    <string name="event_simplify">Упрощение геометрии</string>
-    <string name="event_unwrap">Распаковка текстур</string>
+    <string name="event_bright">слишком ярко для сканирования</string>
+    <string name="event_dark">слишком темно для сканирования</string>
+    <string name="event_features">отслеживатель движений обнаружил проблему</string>
+    <string name="event_convert">преобразование данных</string>
+    <string name="event_image">обработка фото</string>
+    <string name="event_merge">влияние результатов</string>
+    <string name="event_poisson">Восстановление Пуассона</string>
+    <string name="event_process">обработка модели</string>
+    <string name="event_simplify">упрощение геометрии</string>
+    <string name="event_unwrap">развертывание текстур</string>
 
     <!-- Scan dialog !-->
-    <string name="advanced">Расширенный</string>
-    <string name="depth_sensor">Использовать датчик глубины</string>
-    <string name="hole_filling">Заполнение пробелов в режиме реального времени</string>
+    <string name="advanced">Продвинутый</string>
+    <string name="depth_sensor">использовать датчик глубины</string>
+    <string name="hole_filling">Заполнение пробелов в реальном времени</string>
     <string name="scan_2cm">2 cm - маленькая комната</string>
-    <string name="scan_4cm">4 cm - нутряной</string>
-    <string name="scan_8cm">8 cm - наружный</string>
-    <string name="scan_face">Сканирование лиц</string>
+    <string name="scan_4cm">4 cm - интерьер</string>
+    <string name="scan_8cm">8 cm - экстерьер</string>
+    <string name="scan_face">сканировать лицо</string>
 
     <string-array name="shares">
-        <item>диалог Android</item>>
+        <item>Android dialog</item>>
         <item>Google Poly</item>>
         <item>Sketchfab</item>>
     </string-array>
