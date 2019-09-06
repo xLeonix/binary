@@ -13,6 +13,7 @@
     <string name="continue_question">Chcete pokračovat?</string>
     <string name="info">Používáním této aplikace souhlasíte s #BEGIN#podmínkami ochrany soukromí#END#.\n\nVeškerá data budou uložena ve složce \"Models\" v interním úložišti</string>
     <string name="share_via">Sdílet pomocí</string>
+    <string name="backend">Backend</string>
 
     <!-- Editor !-->
     <string name="editor_main_colors">Barvy</string>
@@ -69,6 +70,8 @@
     <string name="advanced">Pokročilé</string>
     <string name="depth_sensor">Použít depth senzor</string>
     <string name="hole_filling">Vyplňování mezer za běhu</string>
+    <string name="scan_5mm">0.5 cm - objekty</string>
+    <string name="scan_1cm">1 cm - kompozice</string>
     <string name="scan_2cm">2 cm - malá místnost</string>
     <string name="scan_4cm">4 cm - interior</string>
     <string name="scan_8cm">8 cm - exterior</string>

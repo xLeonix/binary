@@ -13,6 +13,7 @@
     <string name="continue_question">Wollen Sie fortfahren?</string>
     <string name="info">Mit der Nutzung dieser App erklären Sie sich mit der #BEGIN#Datenschutzerklärung#END# einverstanden.\n\nAlle Daten werden im Ordner \"Models\" im internen Speicher gespeichert.</string>
     <string name="share_via">Teilen über</string>
+    <string name="backend">Backend</string>
 
     <!-- Editor !-->
     <string name="editor_main_colors">Farben</string>
@@ -69,6 +70,8 @@
     <string name="advanced">Fortgeschritten</string>
     <string name="depth_sensor">Tiefensensor verwenden</string>
     <string name="hole_filling">Echtzeit-Lückenschließung</string>
+    <string name="scan_5mm">0.5 cm - Objekte</string>
+    <string name="scan_1cm">1 cm - Komposition</string>
     <string name="scan_2cm">2 cm - kleines Zimmer</string>
     <string name="scan_4cm">4 cm - drinnen</string>
     <string name="scan_8cm">8 cm - draußen</string>

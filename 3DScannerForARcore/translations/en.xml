@@ -13,6 +13,7 @@
     <string name="continue_question">Do you want to continue?</string>
     <string name="info">By using this app you agree with #BEGIN#privacy policy#END#.\n\nAll data are going to be saved in the \"Models\" folder in the internal storage.</string>
     <string name="share_via">Share via</string>
+    <string name="backend">Backend</string>
 
     <!-- Editor !-->
     <string name="editor_main_colors">Colors</string>
@@ -69,6 +70,8 @@
     <string name="advanced">Advanced</string>
     <string name="depth_sensor">Use depth sensor</string>
     <string name="hole_filling">Realtime gap filling</string>
+    <string name="scan_5mm">0.5 cm - objects</string>
+    <string name="scan_1cm">1 cm - composition</string>
     <string name="scan_2cm">2 cm - small room</string>
     <string name="scan_4cm">4 cm - interior</string>
     <string name="scan_8cm">8 cm - exterior</string>

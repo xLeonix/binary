@@ -13,6 +13,7 @@
     <string name="continue_question">Voulez-vous continuer?</string>
     <string name="info">En utilisant cette application, vous acceptez #BEGIN#la politique de confidentialité#END#.\n\nToutes les données seront sauvegardées dans le dossier \"Models\" de la mémoire interne.</string>
     <string name="share_via">Action par</string>
+    <string name="backend">Backend</string>
 
     <!-- Editor !-->
     <string name="editor_main_colors">Couleurs</string>
@@ -69,6 +70,8 @@
     <string name="advanced">Avancé</string>
     <string name="depth_sensor">Utiliser le capteur de profondeur</string>
     <string name="hole_filling">Comblement des vides en temps réel</string>
+    <string name="scan_5mm">0.5 cm - Objets</string>
+    <string name="scan_1cm">1 cm - Composition</string>
     <string name="scan_2cm">2 cm - Petites pièces</string>
     <string name="scan_4cm">4 cm - Intérieurs</string>
     <string name="scan_8cm">8 cm - Extérieur</string>

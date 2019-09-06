@@ -13,6 +13,7 @@
     <string name="continue_question">вы хотите продолжить?</string>
     <string name="info">прежде чем вы начнете использовать приложение #BEGIN#соглашение о конфиденциальности#END#.\n\n все файлы должны быть сохранены в \"Models\" папка в корневом диске.</string>
     <string name="share_via">отправить через</string>
+    <string name="backend">Backend</string>
 
     <!-- Editor !-->
     <string name="editor_main_colors">цвета</string>
@@ -69,6 +70,8 @@
     <string name="advanced">Продвинутый</string>
     <string name="depth_sensor">использовать датчик глубины</string>
     <string name="hole_filling">Заполнение пробелов в реальном времени</string>
+    <string name="scan_5mm">0.5 cm - объекты</string>
+    <string name="scan_1cm">1 cm - состав</string>
     <string name="scan_2cm">2 cm - маленькая комната</string>
     <string name="scan_4cm">4 cm - интерьер</string>
     <string name="scan_8cm">8 cm - экстерьер</string>

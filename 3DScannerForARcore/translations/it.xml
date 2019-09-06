@@ -13,6 +13,7 @@
     <string name="continue_question">Vuoi continuare?</string>
     <string name="info">Usando questa applicazione accetti #BEGIN#l\'informativa sulla privacy.#END#.\n\nTutti i dati saranno salvati nella cartella "Models"\n\nNella memoria interna.</string>
     <string name="share_via">Condividi tramite</string>
+    <string name="backend">Backend</string>
 
     <!-- Editor !-->
     <string name="editor_main_colors">Colori</string>
@@ -69,6 +70,8 @@
     <string name="advanced">Avanzate</string>
     <string name="depth_sensor">Utilizzare il sensore di profondità</string>
     <string name="hole_filling">Riempimento del vuoto in tempo reale</string>
+    <string name="scan_5mm">0.5 cm - oggetti</string>
+    <string name="scan_1cm">1 cm - composizione</string>
     <string name="scan_2cm">2 cm - cameretta</string>
     <string name="scan_4cm">4 cm - interiore</string>
     <string name="scan_8cm">8 cm - esterno</string>
