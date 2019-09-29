@@ -7,13 +7,14 @@
     <string name="invalid_name">некорректное имя файла!</string>
     <string name="delete">удалить модель</string>
     <string name="capture">сканировать</string>
-    <string name="scene_res">выберите качество сканирования</string>
     <string name="settings">настройки</string>
+    <string name="scene_res">выберите качество сканирования</string>
     <string name="move">начните двигаться для начала захвата.</string>
     <string name="continue_question">вы хотите продолжить?</string>
     <string name="info">прежде чем вы начнете использовать приложение #BEGIN#соглашение о конфиденциальности#END#.\n\n все файлы должны быть сохранены в \"Models\" папка в корневом диске.</string>
     <string name="share_via">отправить через</string>
-    <string name="backend">Backend</string>
+    <string name="later">Постпроцесс позже</string>
+    <string name="postprocess">постпроцесс</string>
 
     <!-- Editor !-->
     <string name="editor_main_colors">цвета</string>
@@ -65,16 +66,18 @@
     <string name="event_process">обработка модели</string>
     <string name="event_simplify">упрощение геометрии</string>
     <string name="event_unwrap">развертывание текстур</string>
+    <string name="event_correction">коррекция дозы</string>
+    <string name="event_reconstruction">Коррекция модели</string>
 
     <!-- Scan dialog !-->
-    <string name="advanced">Продвинутый</string>
     <string name="depth_sensor">использовать датчик глубины</string>
-    <string name="hole_filling">Заполнение пробелов в реальном времени</string>
-    <string name="scan_5mm">0.5 cm - объекты</string>
-    <string name="scan_1cm">1 cm - состав</string>
-    <string name="scan_2cm">2 cm - маленькая комната</string>
-    <string name="scan_4cm">4 cm - интерьер</string>
-    <string name="scan_8cm">8 cm - экстерьер</string>
+    <string name="scan_1_8cm">0.125 cm - Маленькие объекты</string>
+    <string name="scan_1_4cm">0.25 cm - Большие объекты</string>
+    <string name="scan_1_2cm">0.5 cm - состав</string>
+    <string name="scan_1cm">1 cm - маленькая комната</string>
+    <string name="scan_2cm">2 cm - интерьер</string>
+    <string name="scan_4cm">4 cm - экстерьер</string>
+    <string name="scan_8cm">8 cm - Быстрое сканирование</string>
     <string name="scan_face">сканировать лицо</string>
 
     <string-array name="shares">

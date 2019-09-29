@@ -7,13 +7,14 @@
     <string name="invalid_name">Neplatné jméno!</string>
     <string name="delete">Vymazat model</string>
     <string name="capture">Skenovat</string>
-    <string name="scene_res">Vyberte rozlišení skenování</string>
     <string name="settings">Nastavení</string>
+    <string name="scene_res">Vyberte rozlišení skenování</string>
     <string name="move">Pohybujte zařízením kolem, abyste spustili skenování.</string>
     <string name="continue_question">Chcete pokračovat?</string>
     <string name="info">Používáním této aplikace souhlasíte s #BEGIN#podmínkami ochrany soukromí#END#.\n\nVeškerá data budou uložena ve složce \"Models\" v interním úložišti</string>
     <string name="share_via">Sdílet pomocí</string>
-    <string name="backend">Backend</string>
+    <string name="later">Zpracovat později</string>
+    <string name="postprocess">Zpracovat</string>
 
     <!-- Editor !-->
     <string name="editor_main_colors">Barvy</string>
@@ -65,16 +66,18 @@
     <string name="event_process">Zpracovávám model</string>
     <string name="event_simplify">Zjednodušuji geometrii</string>
     <string name="event_unwrap">Rozbaluji textury</string>
+    <string name="event_correction">Korekce pozic</string>
+    <string name="event_reconstruction">Korekce modelu</string>
 
     <!-- Scan dialog !-->
-    <string name="advanced">Pokročilé</string>
     <string name="depth_sensor">Použít depth senzor</string>
-    <string name="hole_filling">Vyplňování mezer za běhu</string>
-    <string name="scan_5mm">0.5 cm - objekty</string>
-    <string name="scan_1cm">1 cm - kompozice</string>
-    <string name="scan_2cm">2 cm - malá místnost</string>
-    <string name="scan_4cm">4 cm - interior</string>
-    <string name="scan_8cm">8 cm - exterior</string>
+    <string name="scan_1_8cm">0.125 cm - Malé objekty</string>
+    <string name="scan_1_4cm">0.25 cm - Velké objekty</string>
+    <string name="scan_1_2cm">0.5 cm - Kompozice</string>
+    <string name="scan_1cm">1 cm - Malá místnost</string>
+    <string name="scan_2cm">2 cm - Interior</string>
+    <string name="scan_4cm">4 cm - Exterior</string>
+    <string name="scan_8cm">8 cm - Rychlý sken</string>
     <string name="scan_face">Skenování obličeje</string>
 
     <string-array name="shares">

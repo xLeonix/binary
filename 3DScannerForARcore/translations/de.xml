@@ -7,13 +7,14 @@
     <string name="invalid_name">Ungültiger Dateiname!</string>
     <string name="delete">Löschen des Modells</string>
     <string name="capture">Scannen</string>
-    <string name="scene_res">Wählen Sie die Aufnahmeauflösung</string>
     <string name="settings">Einstellungen</string>
+    <string name="scene_res">Wählen Sie die Aufnahmeauflösung</string>
     <string name="move">Bewegen Sie das Gerät, um mit dem Scannen zu beginnen.</string>
     <string name="continue_question">Wollen Sie fortfahren?</string>
     <string name="info">Mit der Nutzung dieser App erklären Sie sich mit der #BEGIN#Datenschutzerklärung#END# einverstanden.\n\nAlle Daten werden im Ordner \"Models\" im internen Speicher gespeichert.</string>
     <string name="share_via">Teilen über</string>
-    <string name="backend">Backend</string>
+    <string name="later">Später nachbearbeiten</string>
+    <string name="postprocess">Nachbearbeiten</string>
 
     <!-- Editor !-->
     <string name="editor_main_colors">Farben</string>
@@ -65,16 +66,18 @@
     <string name="event_process">Verarbeitungsmodell</string>
     <string name="event_simplify">Vereinfachung der Geometrie</string>
     <string name="event_unwrap">Auspacken von Texturen</string>
+    <string name="event_correction">Posenkorrektur</string>
+    <string name="event_reconstruction">Modellkorrektur</string>
 
     <!-- Scan dialog !-->
-    <string name="advanced">Fortgeschritten</string>
     <string name="depth_sensor">Tiefensensor verwenden</string>
-    <string name="hole_filling">Echtzeit-Lückenschließung</string>
-    <string name="scan_5mm">0.5 cm - Objekte</string>
-    <string name="scan_1cm">1 cm - Komposition</string>
-    <string name="scan_2cm">2 cm - kleines Zimmer</string>
-    <string name="scan_4cm">4 cm - drinnen</string>
-    <string name="scan_8cm">8 cm - draußen</string>
+    <string name="scan_1_8cm">0.125 cm - Kleine Objekte</string>
+    <string name="scan_1_4cm">0.25 cm - Große Objekte</string>
+    <string name="scan_1_2cm">0.5 cm - Komposition</string>
+    <string name="scan_1cm">1 cm - Kleines Zimmer</string>
+    <string name="scan_2cm">2 cm - Drinnen</string>
+    <string name="scan_4cm">4 cm - Draußen</string>
+    <string name="scan_8cm">8 cm - Schnelles Scannen</string>
     <string name="scan_face">Gesichtsscan</string>
 
     <string-array name="shares">

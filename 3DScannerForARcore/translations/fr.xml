@@ -7,13 +7,14 @@
     <string name="invalid_name">Le nom du fichier est invalide</string>
     <string name="delete">Supprimer le modèle</string>
     <string name="capture">Scanner</string>
-    <string name="scene_res">Choisissez la résolution de captation</string>
     <string name="settings">Configuration</string>
+    <string name="scene_res">Choisissez la résolution de captation</string>
     <string name="move">Bougez le capteur pour commencer à scanner</string>
     <string name="continue_question">Voulez-vous continuer?</string>
     <string name="info">En utilisant cette application, vous acceptez #BEGIN#la politique de confidentialité#END#.\n\nToutes les données seront sauvegardées dans le dossier \"Models\" de la mémoire interne.</string>
     <string name="share_via">Action par</string>
-    <string name="backend">Backend</string>
+    <string name="later">Postprocéder plus tard</string>
+    <string name="postprocess">Post-processus</string>
 
     <!-- Editor !-->
     <string name="editor_main_colors">Couleurs</string>
@@ -65,16 +66,18 @@
     <string name="event_process">Traitement du modèle</string>
     <string name="event_simplify">Simplification de la géometrie</string>
     <string name="event_unwrap">Fusion des textures</string>
+    <string name="event_correction">Correction de pose</string>
+    <string name="event_reconstruction">Correction de modèle</string>
 
     <!-- Scan dialog !-->
-    <string name="advanced">Avancé</string>
     <string name="depth_sensor">Utiliser le capteur de profondeur</string>
-    <string name="hole_filling">Comblement des vides en temps réel</string>
-    <string name="scan_5mm">0.5 cm - Objets</string>
-    <string name="scan_1cm">1 cm - Composition</string>
-    <string name="scan_2cm">2 cm - Petites pièces</string>
-    <string name="scan_4cm">4 cm - Intérieurs</string>
-    <string name="scan_8cm">8 cm - Extérieur</string>
+    <string name="scan_1_8cm">0.125 cm - Petits objets</string>
+    <string name="scan_1_4cm">0.25 cm - Grands objets</string>
+    <string name="scan_1_2cm">0.5 cm - Composition</string>
+    <string name="scan_1cm">1 cm - Petites pièces</string>
+    <string name="scan_2cm">2 cm - Intérieurs</string>
+    <string name="scan_4cm">4 cm - Extérieur</string>
+    <string name="scan_8cm">8 cm - Analyse rapide</string>
     <string name="scan_face">Scannage du visage</string>
 
     <string-array name="shares">
