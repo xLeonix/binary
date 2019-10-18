@@ -69,9 +69,15 @@
     <string name="event_correction">коррекция дозы</string>
     <string name="event_reconstruction">Коррекция модели</string>
 
+    <!-- Pro dialog !-->
+    <string name="upgrade">подъем</string>
+    <string name="upgrade1">Есть ли у вас устройство с поддерживаемым ToF-датчиком? Если да, то подумайте о покупке Pro версии этого приложения.</string>
+    <string name="upgrade2">Профессиональная версия не содержит рекламы, поддерживает более высокое разрешение и предоставляет больше возможностей.</string>
+    <string name="upgrade3">Вы можете следить за ходом разработки на следующих сайтах:</string>
+
     <!-- Scan dialog !-->
     <string name="depth_sensor">использовать датчик глубины</string>
-    <string name="scan_1_8cm">0.125 cm - Маленькие объекты</string>
+    <string name="scan_vector">вектор - режим фото</string>
     <string name="scan_1_4cm">0.25 cm - Большие объекты</string>
     <string name="scan_1_2cm">0.5 cm - состав</string>
     <string name="scan_1cm">1 cm - маленькая комната</string>

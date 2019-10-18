@@ -69,9 +69,15 @@
     <string name="event_correction">Posenkorrektur</string>
     <string name="event_reconstruction">Modellkorrektur</string>
 
+    <!-- Pro dialog !-->
+    <string name="upgrade">Upgrade</string>
+    <string name="upgrade1">Haben Sie ein Gerät mit einem unterstützten ToF-Sensor? Wenn ja, dann überlegen Sie, die Pro-Version dieser App zu kaufen.</string>
+    <string name="upgrade2">Die Pro-Version enthält keine Werbung, unterstützt höhere Auflösungen und bietet mehr Funktionen.</string>
+    <string name="upgrade3">Auf den folgenden Seiten können Sie den Entwicklungsstand verfolgen:</string>
+
     <!-- Scan dialog !-->
     <string name="depth_sensor">Tiefensensor verwenden</string>
-    <string name="scan_1_8cm">0.125 cm - Kleine Objekte</string>
+    <string name="scan_vector">Vektor - Fotomodus</string>
     <string name="scan_1_4cm">0.25 cm - Große Objekte</string>
     <string name="scan_1_2cm">0.5 cm - Komposition</string>
     <string name="scan_1cm">1 cm - Kleines Zimmer</string>

@@ -69,9 +69,15 @@
     <string name="event_correction">Korekce pozic</string>
     <string name="event_reconstruction">Korekce modelu</string>
 
+    <!-- Pro dialog !-->
+    <string name="upgrade">Upgrade</string>
+    <string name="upgrade1">Máte zařízení s podporovaným ToF senzorem? Pokud ano, zvažte koupi Pro verze této aplikace.</string>
+    <string name="upgrade2">Pro verze neobsahuje reklamy, podporuje vyšší rozlišení a poskytuje více funkcí.</string>
+    <string name="upgrade3">Progres vývoje můžete sledovat na těchto portálech:</string>
+
     <!-- Scan dialog !-->
     <string name="depth_sensor">Použít depth senzor</string>
-    <string name="scan_1_8cm">0.125 cm - Malé objekty</string>
+    <string name="scan_vector">Vektorově - Foto mód</string>
     <string name="scan_1_4cm">0.25 cm - Velké objekty</string>
     <string name="scan_1_2cm">0.5 cm - Kompozice</string>
     <string name="scan_1cm">1 cm - Malá místnost</string>
