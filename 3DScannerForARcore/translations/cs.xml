@@ -15,6 +15,7 @@
     <string name="share_via">Sdílet pomocí</string>
     <string name="later">Zpracovat později</string>
     <string name="postprocess">Zpracovat</string>
+    <string name="wait">Prosím čekejte</string>
 
     <!-- Editor !-->
     <string name="editor_main_colors">Barvy</string>
@@ -66,8 +67,10 @@
     <string name="event_process">Zpracovávám model</string>
     <string name="event_simplify">Zjednodušuji geometrii</string>
     <string name="event_unwrap">Rozbaluji textury</string>
-    <string name="event_correction">Korekce pozic</string>
-    <string name="event_reconstruction">Korekce modelu</string>
+    <string name="event_correction">Korekce pozic (experimentalní)</string>
+    <string name="event_pose_unknown">Nedostatek referencí k determinování kvality framu</string>
+    <string name="event_pose_error">Nepřesnost posledního framu je</string>
+    <string name="event_pose_request">Požadované minimum je</string>
 
     <!-- Pro dialog !-->
     <string name="upgrade">Upgrade</string>
@@ -87,8 +90,7 @@
     <string name="scan_face">Skenování obličeje</string>
 
     <string-array name="shares">
-        <item>Android dialog</item>>
-        <item>Google Poly</item>>
-        <item>Sketchfab</item>>
+        <item>Android dialog</item>
+        <item>Sketchfab</item>
     </string-array>
 </resources>

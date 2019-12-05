@@ -15,6 +15,7 @@
     <string name="share_via">Condividi tramite</string>
     <string name="later">Postprocesso successivo</string>
     <string name="postprocess">Post-processo</string>
+    <string name="wait">Attendere per favore</string>
 
     <!-- Editor !-->
     <string name="editor_main_colors">Colori</string>
@@ -66,8 +67,10 @@
     <string name="event_process">Modello di elaborazione</string>
     <string name="event_simplify">Semplificazione della geometria</string>
     <string name="event_unwrap">Srotolamento delle texture</string>
-    <string name="event_correction">Correzione della posa</string>
-    <string name="event_reconstruction">Correzione del modello</string>
+    <string name="event_correction">Correzione della posa (sperimentale)</string>
+    <string name="event_pose_unknown">Non sono stati trovati abbastanza riferimenti per determinare la qualità del telaio</string>
+    <string name="event_pose_error">L\'imprecisione dell\'ultimo fotogramma è</string>
+    <string name="event_pose_request">Il minimo richiesto è</string>
 
     <!-- Pro dialog !-->
     <string name="upgrade">Upgrade</string>
@@ -87,8 +90,7 @@
     <string name="scan_face">Scansione del viso</string>
 
     <string-array name="shares">
-        <item>Finestra di dialogo Android</item>>
-        <item>Google Poly</item>>
-        <item>Sketchfab</item>>
+        <item>Finestra di dialogo Android</item>
+        <item>Sketchfab</item>
     </string-array>
 </resources>

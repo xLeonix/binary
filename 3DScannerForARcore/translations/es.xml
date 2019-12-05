@@ -15,6 +15,7 @@
     <string name="share_via">Compartir a través de</string>
     <string name="later">Tratamiento posterior</string>
     <string name="postprocess">Proceso posterior</string>
+    <string name="wait">Por favor, espere</string>
 
     <!-- Editor !-->
     <string name="editor_main_colors">Colores</string>
@@ -66,8 +67,10 @@
     <string name="event_process">Modelo de procesamiento</string>
     <string name="event_simplify">Simplificación de la geometría</string>
     <string name="event_unwrap">Desenvoltura de texturas</string>
-    <string name="event_correction">Corrección de la postura</string>
-    <string name="event_reconstruction">Corrección del modelo</string>
+    <string name="event_correction">Corrección de la postura (experimental)</string>
+    <string name="event_pose_unknown">No se han encontrado suficientes referencias para determinar la calidad de la montura</string>
+    <string name="event_pose_error">La última inexactitud del cuadro es</string>
+    <string name="event_pose_request">El mínimo solicitado es</string>
 
     <!-- Pro dialog !-->
     <string name="upgrade">Upgrade</string>
@@ -87,8 +90,7 @@
     <string name="scan_face">Escaneo facial</string>
 
     <string-array name="shares">
-        <item>Diálogo con Android</item>>
-        <item>Google Poly</item>>
-        <item>Sketchfab</item>>
+        <item>Diálogo con Android</item>
+        <item>Sketchfab</item>
     </string-array>
 </resources>

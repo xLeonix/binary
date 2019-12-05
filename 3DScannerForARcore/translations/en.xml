@@ -15,6 +15,7 @@
     <string name="share_via">Share via</string>
     <string name="later">Postprocess later</string>
     <string name="postprocess">Postprocess</string>
+    <string name="wait">Please wait</string>
 
     <!-- Editor !-->
     <string name="editor_main_colors">Colors</string>
@@ -66,8 +67,10 @@
     <string name="event_process">Processing model</string>
     <string name="event_simplify">Simplifying geometry</string>
     <string name="event_unwrap">Unwrapping textures</string>
-    <string name="event_correction">Pose correction</string>
-    <string name="event_reconstruction">Model correction</string>
+    <string name="event_correction">Pose correction (experimental)</string>
+    <string name="event_pose_unknown">Not enough references found to determine frame quality</string>
+    <string name="event_pose_error">The last frame inaccuracy is</string>
+    <string name="event_pose_request">Requested minimum is</string>
 
     <!-- Pro dialog !-->
     <string name="upgrade">Upgrade</string>
@@ -87,9 +90,8 @@
     <string name="scan_face">Face scan</string>
 
     <string-array name="shares">
-        <item>Android dialog</item>>
-        <item>Google Poly</item>>
-        <item>Sketchfab</item>>
+        <item>Android dialog</item>
+        <item>Sketchfab</item>
     </string-array>
 
     <string-array name="empty">

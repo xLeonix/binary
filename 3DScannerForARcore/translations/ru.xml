@@ -15,6 +15,7 @@
     <string name="share_via">отправить через</string>
     <string name="later">Постпроцесс позже</string>
     <string name="postprocess">постпроцесс</string>
+    <string name="wait">Пожалуйста, подождите</string>
 
     <!-- Editor !-->
     <string name="editor_main_colors">цвета</string>
@@ -66,8 +67,10 @@
     <string name="event_process">обработка модели</string>
     <string name="event_simplify">упрощение геометрии</string>
     <string name="event_unwrap">развертывание текстур</string>
-    <string name="event_correction">коррекция дозы</string>
-    <string name="event_reconstruction">Коррекция модели</string>
+    <string name="event_correction">коррекция дозы (экспериментальный)</string>
+    <string name="event_pose_unknown">Недостаточно найдено ссылок для определения качества кадра</string>
+    <string name="event_pose_error">Последняя кадровая погрешность заключается в том</string>
+    <string name="event_pose_request">Минимальный требуемый уровень</string>
 
     <!-- Pro dialog !-->
     <string name="upgrade">подъем</string>
@@ -87,8 +90,7 @@
     <string name="scan_face">сканировать лицо</string>
 
     <string-array name="shares">
-        <item>Android dialog</item>>
-        <item>Google Poly</item>>
-        <item>Sketchfab</item>>
+        <item>Android dialog</item>
+        <item>Sketchfab</item>
     </string-array>
 </resources>
