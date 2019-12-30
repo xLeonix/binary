@@ -3,7 +3,7 @@
     <!-- File Manager !-->
     <string name="app_name">Scanner 3D</string>
     <string name="no_data">Nessun modello 3D</string>
-    <string name="name_exists">Esiste già un modello con il nome inserito.</string>
+    <string name="name_exists">Esiste già un modello con questo nome.</string>
     <string name="invalid_name">Nome file non valido!</string>
     <string name="delete">Cancellare il modello</string>
     <string name="capture">Scansione</string>
