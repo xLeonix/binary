@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- File Manager !-->
+    <string name="app_name">3D Szkenner</string>
+    <string name="no_data">Nincsenek 3D-s modellek</string>
+    <string name="name_exists">Egy modell a nevével van.</string>
+    <string name="invalid_name">Rossz a fájl neve!</string>
+    <string name="delete">Modell törlése</string>
+    <string name="capture">Szkennelés</string>
+    <string name="settings">Beállítások</string>
+    <string name="scene_res">Válasszdd ki a felbontást</string>
+    <string name="move">Vidd körbe az eszközt a tárgy körül!</string>
+    <string name="continue_question">Folytatni akarod?</string>
+    <string name="info">Az app használatával elfogadod a #BEGIN#privacy policy#END#.\n\nAz összes adat el lesz mentve a \"Modellek\" mappába a tárhelyben.</string>
+    <string name="share_via">Megosztás</string>
+    <string name="later">Átdolgozásal később</string>
+    <string name="postprocess">Postprocess</string>
+    <string name="wait">Kérlek várj!</string>
+
+    <!-- Editor !-->
+    <string name="editor_main_colors">Színek</string>
+    <string name="editor_main_select">Kiválasztás</string>
+    <string name="editor_main_transform">Transzformálás</string>
+    <string name="editor_main_view">Nézet</string>
+    <string name="editor_colors_contrast">Kontraszt</string>
+    <string name="editor_colors_gamma">Gamma</string>
+    <string name="editor_colors_saturation">Telítettség</string>
+    <string name="editor_colors_tone">Tónus</string>
+    <string name="editor_colors_reset">Visszaállítás</string>
+    <string name="editor_select_all">Minden/Semmi</string>
+    <string name="editor_select_object">Objekt</string>
+    <string name="editor_select_object_desc">Éritsd meg az objektot a kijelöléshez.</string>
+    <string name="editor_select_rect">Téglalap</string>
+    <string name="editor_select_rect_desc">Téglalapos kijelölés a képernyön a képernyő érintéséből.</string>
+    <string name="editor_select_less">Kevesebb</string>
+    <string name="editor_select_more">Több</string>
+    <string name="editor_transform_clone">Másolás</string>
+    <string name="editor_transform_delete">Törlés</string>
+    <string name="editor_transform_move">Mozdítás</string>
+    <string name="editor_transform_rotate">Fordítás</string>
+    <string name="editor_transform_scale">Skála</string>
+    <string name="editor_view_normals">Normálisak</string>
+
+    <!-- Service !-->
+    <string name="action_continue">Szkennelés folytatása</string>
+    <string name="action_show_result">Eredmények mutatása</string>
+    <string name="action_finish">Kész</string>
+    <string name="action_cancel">Vissza operation</string>
+    <string name="enter_filename">Írd be a fájl nevét</string>
+    <string name="failed">Kiszámítása vége, a szkennellt adat elveszett!</string>
+    <string name="finished">A kiszámítása vége</string>
+    <string name="paused">Szkennelés megállítva</string>
+    <string name="postprocessing">A modell számítása…</string>
+    <string name="saving">Mentés…</string>
+    <string name="turn_off">Ki tudsz lépni az appból adatvesztés nélkül.</string>
+    <string name="warning">Vigyázat</string>
+    <string name="working">Az app dolgozik ne kapcsold ki a telefont és ne indíts el új AR appot.</string>
+
+    <!-- Event !-->
+    <string name="event_bright">Túl nagy a szkenneléshez! </string>
+    <string name="event_dark">Túl sötét szkenneléshez!</string>
+    <string name="event_features">Problémák a meghatározással!</string>
+    <string name="event_convert">Adat töltése</string>
+    <string name="event_image">Fotó számítása</string>
+    <string name="event_merge">Átszámítás</string>
+    <string name="event_poisson">Rekonstrukció ekemezése</string>új
+    <string name="event_process">Modell elemezése</string>
+    <string name="event_simplify">Geometria dolgozása</string>
+    <string name="event_unwrap">Textúrák dolgozása</string>
+    <string name="event_correction">Póz korrekció (experimental)</string>
+    <string name="event_pose_unknown">Not enough references found to determine frame quality</string>
+    <string name="event_pose_error">Az utolsó képpont pontatlansága:</string>
+    <string name="event_pose_request">A minimum:</string>
+
+    <!-- Pro dialog !-->
+    <string name="upgrade">Fejlesztés</string>
+    <string name="upgrade1">Van egy ToF szenzorral felszerelt eszközöd? Ha igen, ajánlom neked a fejlettebb verziót.</string>
+    <string name="upgrade2">A fejlettebb verzió gyorsabb és magasabb felbontású szkennelés tartalmaz.</string>
+    <string name="upgrade3">A használati útmutatót folytathatod a következő oldalon:</string>
+
+    <!-- Scan dialog !-->
+    <string name="depth_sensor">Mélységérzékelő használata</string>
+    <string name="scan_vector">Vektor - Fotó mód</string>
+    <string name="scan_1_4cm">0.25 cm - Nagy objektek</string>
+    <string name="scan_1_2cm">0.5 cm - Összeállítás</string>
+    <string name="scan_1cm">1 cm - Kicsi szoba</string>
+    <string name="scan_2cm">2 cm - Közepes</string>
+    <string name="scan_4cm">4 cm - Nagy</string>
+    <string name="scan_8cm">8 cm - Gyors szkennelés</string>
+    <string name="scan_face">Arc szkennelése</string>
+
+    <string-array name="shares">
+        <item>Android dialog</item>
+        <item>Sketchfab</item>
+    </string-array>
+</resources>
