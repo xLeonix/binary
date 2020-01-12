@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- File Manager !-->
+    <string name="app_name">3D扫描仪</string>
+    <string name="no_data">没有3D模型</string>
+    <string name="name_exists">一个模型已经具有相同的名称</string>
+    <string name="invalid_name">文件名非法！</string>
+    <string name="delete">删除模型</string>
+    <string name="capture">扫描</string>
+    <string name="settings">设置</string>
+    <string name="scene_res">选择拍摄分辨率</string>
+    <string name="move">移动设备以开始扫描</string>
+    <string name="continue_question">您确认要删除吗?</string>
+    <string name="info">使用这个APP您同意#BEGIN#隐私条例#END#.\n\n所有的数据将会被储存在 \"Models\" 手机内部文件夹.</string>
+    <string name="share_via">分享</string>
+    <string name="later">推迟建模</string>
+    <string name="postprocess">建立模型</string>
+    <string name="wait">请等待</string>
+
+    <!-- Editor !-->
+    <string name="editor_main_colors">颜色</string>
+    <string name="editor_main_select">选择</string>
+    <string name="editor_main_transform">转换视角</string>
+    <string name="editor_main_view">观察</string>
+    <string name="editor_colors_contrast">对比度</string>
+    <string name="editor_colors_gamma">伽马</string>
+    <string name="editor_colors_saturation">饱和度</string>
+    <string name="editor_colors_tone">色域</string>
+    <string name="editor_colors_reset">重置</string>
+    <string name="editor_select_all">全选/取消</string>
+    <string name="editor_select_object">对象</string>
+    <string name="editor_select_object_desc">点击您想选择的对象.</string>
+    <string name="editor_select_rect">矩形</string>
+    <string name="editor_select_rect_desc">通过拖拽在屏幕上创建矩形.</string>
+    <string name="editor_select_less">缩小</string>
+    <string name="editor_select_more">放大</string>
+    <string name="editor_transform_clone">复制</string>
+    <string name="editor_transform_delete">删除</string>
+    <string name="editor_transform_move">移动</string>
+    <string name="editor_transform_rotate">旋转</string>
+    <string name="editor_transform_scale">缩放</string>
+    <string name="editor_view_normals">平面信息</string>
+
+    <!-- Service !-->
+    <string name="action_continue">继续扫描</string>
+    <string name="action_show_result">显示结果</string>
+    <string name="action_finish">结束</string>
+    <string name="action_cancel">取消进程</string>
+    <string name="enter_filename">输入文件名</string>
+    <string name="failed">处理失败，扫描数据丢失!</string>
+    <string name="finished">处理结束</string>
+    <string name="paused">暂停扫描</string>
+    <string name="postprocessing">计算模型…</string>
+    <string name="saving">保存模型…</string>
+    <string name="turn_off">你可以退出APP且不丢失任何数据.</string>
+    <string name="warning">警告</string>
+    <string name="working">这个APP正在运行，请不要关机或运行其他的AR软件.</string>
+
+    <!-- Event !-->
+    <string name="event_bright">太亮了</string>
+    <string name="event_dark">太暗了</string>
+    <string name="event_features">动作追踪发现异常</string>
+    <string name="event_convert">转换数据</string>
+    <string name="event_image">处理相片</string>
+    <string name="event_merge">融合结果</string>
+    <string name="event_poisson">泊松重建</string>
+    <string name="event_process">处理模型</string>
+    <string name="event_simplify">简化几何体</string>
+    <string name="event_unwrap">非闭合特征</string>
+    <string name="event_correction">姿势修正 (试验中)</string>
+    <string name="event_pose_unknown">缺乏足够的参考特征去评价帧的质量</string>
+    <string name="event_pose_error">最后的一帧的准确度是</string>
+    <string name="event_pose_request">需要的最少值是</string>
+
+    <!-- Pro dialog !-->
+    <string name="upgrade">升级</string>
+    <string name="upgrade1">你有一个支持ToF摄像头的手机吗？如果有的话你可以考虑买这个APP的专业版</string>
+    <string name="upgrade2">专业版不包含广告，支持更高的分辨率以及更多的特征.</string>
+    <string name="upgrade3">你可以通过以下网站追踪开发的进程:</string>
+
+    <!-- Scan dialog !-->
+    <string name="depth_sensor">使用距离传感器</string>
+    <string name="scan_vector">手动拍摄</string>
+    <string name="scan_1_4cm">0.25 cm - 结果精细，模型较大</string>
+    <string name="scan_1_2cm">0.5 cm - 适合扫描结构</string>
+    <string name="scan_1cm">1 cm - 适合扫描小房间</string>
+    <string name="scan_2cm">2 cm - 适合扫描模型内表面</string>
+    <string name="scan_4cm">4 cm - 适合扫描模型外表面</string>
+    <string name="scan_8cm">8 cm - 快速扫描</string>
+    <string name="scan_face">脸部扫描</string>
+
+    <string-array name="shares">
+        <item>手机内置</item>
+        <item>Sketchfab</item>
+    </string-array>
+</resources>
