@@ -16,6 +16,7 @@
     <string name="later">推迟建模</string>
     <string name="postprocess">建立模型</string>
     <string name="wait">请等待</string>
+    <string name="export">汇出资料</string>
 
     <!-- Editor !-->
     <string name="editor_main_colors">颜色</string>
@@ -88,6 +89,8 @@
     <string name="scan_4cm">4 cm - 适合扫描模型外表面</string>
     <string name="scan_8cm">8 cm - 快速扫描</string>
     <string name="scan_face">脸部扫描</string>
+    <string name="export_floorplan">作为平面图</string>
+    <string name="export_model">作为模特</string>
 
     <string-array name="shares">
         <item>手机内置</item>

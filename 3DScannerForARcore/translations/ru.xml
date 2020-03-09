@@ -16,6 +16,7 @@
     <string name="later">Постпроцесс позже</string>
     <string name="postprocess">постпроцесс</string>
     <string name="wait">Пожалуйста, подождите</string>
+    <string name="export">экспортные данные</string>
 
     <!-- Editor !-->
     <string name="editor_main_colors">цвета</string>
@@ -88,6 +89,8 @@
     <string name="scan_4cm">4 cm - экстерьер</string>
     <string name="scan_8cm">8 cm - Быстрое сканирование</string>
     <string name="scan_face">сканировать лицо</string>
+    <string name="export_floorplan">в виде плана этажа</string>
+    <string name="export_model">в качестве модели</string>
 
     <string-array name="shares">
         <item>Android dialog</item>

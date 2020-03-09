@@ -16,6 +16,7 @@
     <string name="later">Zpracovat později</string>
     <string name="postprocess">Zpracovat</string>
     <string name="wait">Prosím čekejte</string>
+    <string name="export">Exportovat data</string>
 
     <!-- Editor !-->
     <string name="editor_main_colors">Barvy</string>
@@ -88,6 +89,8 @@
     <string name="scan_4cm">4 cm - Exterior</string>
     <string name="scan_8cm">8 cm - Rychlý sken</string>
     <string name="scan_face">Skenování obličeje</string>
+    <string name="export_floorplan">jako půdorys</string>
+    <string name="export_model">jako model</string>
 
     <string-array name="shares">
         <item>Android dialog</item>

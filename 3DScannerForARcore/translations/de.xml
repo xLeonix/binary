@@ -16,6 +16,7 @@
     <string name="later">Später nachbearbeiten</string>
     <string name="postprocess">Nachbearbeiten</string>
     <string name="wait">Bitte warten</string>
+    <string name="export">Daten exportieren</string>
 
     <!-- Editor !-->
     <string name="editor_main_colors">Farben</string>
@@ -88,6 +89,8 @@
     <string name="scan_4cm">4 cm - Draußen</string>
     <string name="scan_8cm">8 cm - Schnelles Scannen</string>
     <string name="scan_face">Gesichtsscan</string>
+    <string name="export_floorplan">als Grundriss</string>
+    <string name="export_model">als Modell</string>
 
     <string-array name="shares">
         <item>Android Dialog</item>

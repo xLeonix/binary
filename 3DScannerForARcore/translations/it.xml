@@ -16,6 +16,7 @@
     <string name="later">Postprocesso successivo</string>
     <string name="postprocess">Post-processo</string>
     <string name="wait">Attendere per favore</string>
+    <string name="export">Dati di esportazione</string>
 
     <!-- Editor !-->
     <string name="editor_main_colors">Colori</string>
@@ -88,6 +89,8 @@
     <string name="scan_4cm">4 cm - Esterno</string>
     <string name="scan_8cm">8 cm - Scansione veloce</string>
     <string name="scan_face">Scansione del viso</string>
+    <string name="export_floorplan">come planimetria</string>
+    <string name="export_model">come modello</string>
 
     <string-array name="shares">
         <item>Finestra di dialogo Android</item>

@@ -16,6 +16,7 @@
     <string name="later">Tratamiento posterior</string>
     <string name="postprocess">Proceso posterior</string>
     <string name="wait">Por favor, espere</string>
+    <string name="export">Datos de exportación</string>
 
     <!-- Editor !-->
     <string name="editor_main_colors">Colores</string>
@@ -88,6 +89,8 @@
     <string name="scan_4cm">4 cm - Outward</string>
     <string name="scan_8cm">8 cm - Análisis rápido</string>
     <string name="scan_face">Escaneo facial</string>
+    <string name="export_floorplan">como plano de planta</string>
+    <string name="export_model">como modelo</string>
 
     <string-array name="shares">
         <item>Diálogo con Android</item>
