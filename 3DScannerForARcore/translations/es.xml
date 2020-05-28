@@ -6,7 +6,7 @@
     <string name="name_exists">Ya existe un modelo con el nombre introducido.</string>
     <string name="invalid_name">Nombre de archivo inválido!</string>
     <string name="delete">Borrar el modelo</string>
-    <string name="capture">Escudriñar</string>
+    <string name="capture">Escanear</string>
     <string name="settings">Ajustes</string>
     <string name="scene_res">Elija la resolución de captura</string>
     <string name="move">Mueva el dispositivo para iniciar el escaneo.</string>
